@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mrx:home|Door43 (mrx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mrx|d43-mrx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mrx/archive/master.zip|d43-mrx.zip]]
+
+**Recent Changes**
+{{changes>ns = mrx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mrx|Ethnologue data]]
+
